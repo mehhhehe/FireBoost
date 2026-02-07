@@ -1,5 +1,5 @@
 """
-FireBoost (paper-faithful Python implementation)
+FireBoost
 - Binary Firefly Algorithm (FFA) feature selection
 - OXGBoost training: feature-specific binning, mini-batch boosting, in-loop DLR
 - Adaptive weighting (emphasize misclassified samples) + weighted prediction aggregation
